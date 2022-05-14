@@ -1,5 +1,6 @@
 # GAMES101-Assignment0
 对给定应该坐标点(2,1,1)，求解逆时针旋转45度再平移(1,2)后的坐标
+
 Assignment 0 is about the construction of the operating environment and the exercise of matrix operation. In this assignment, I need to rotate and translate a point P=(2,1) using homogeneous coordinates.
 
 I add an extra dimension called homogeneous coordinates. Homogeneous coordinates not only clean up the code for transformations, but this scheme also makes it obvious how to compose two affine transformations: simply multiply the matrices.
